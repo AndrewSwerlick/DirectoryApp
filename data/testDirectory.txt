@@ -1,0 +1,78 @@
+SMITH, Jordan & Sarah
+Mary, Will
+5212 Sleepy Hollow Drive
+Cincinnati OH 45231
+543-1243
+Jordan's pres. report status: Active Member
+Sarah's pres. report status: Active Member
+Mary's pres. report status: Active Member
+Will's pres. report status: Active Member
+Jordan's birth date: 08/24
+Sarah's birth date: 02/17
+Mary's birth date: 12/16/1987
+Will's birth date: 08/12/1992
+
+CHASE, Bob & Kelly
+3523 Gallup Road
+Cincinnati OH 45239
+123-5643
+Bob's pres. report status: Active Member
+Kelly's pres. report status: Active Member
+Bob's birth date: 12/07
+Kelly's birth date: 10/02
+
+VAN WHEELEN, Amile
+1278 Hollyhock Avenue
+Cincinnati OH 45224
+562-7780
+pres. report status: Active Member
+birth date: 02/18
+
+FAIRFIELD, Gary & Franny
+8782 Westside Drive
+Cincinnati OH 45231-5044
+557-9781
+Gary's pres. report status: Active Member
+Franny's pres. report status: Active Member
+Gary's birth date: 04/27
+Franny's birth date: 05/12
+
+SALES, Dan & Jan
+James, Sally
+3434 Woodburn Drive
+Fairfield OH 45014
+860-9232
+Dan's pres. report status: Active Member
+Jan's pres. report status: Active Member
+James's pres. report status: Active Member
+Sally's pres. report status: Non-Member
+Dan's birth date: 06/27
+Jan's birth date: 03/23
+James's birth date: 07/11/1994
+Sally's birth date: 08/09/1997
+
+LANE, Laurel & Mike*
+Mary, Addy
+8934 Woodview Drive
+Cincinnati OH 45231
+709-0279
+Laurel's pres. report status: Active Member
+Mike's pres. report status: Non-Member
+Mary's pres. report status: Active Member
+Addy's pres. report status: Active Member
+Laurel's birth date: 09/17
+Mary's birth date: 11/23/1989
+Addy's birth date: 10/13/1992
+
+CHURCH, Mike & Kerry
+Ben Stein*, Blake Stein, Calvin
+699 Christopher
+Cincinnati, OH 45231
+Mike's pres. report status: Active Member
+Kerry's pres. report status: Active Member
+Ben Stein's pres. report status: Non-Member
+Blake Stein's pres. report status: Non-Member
+Calvin's pres. report status: Non-Member
+Kerry's birth date: 06/14
+Ben Stein's birth date: 05/05/1992
+Calvin's birth date: 06/29/1999

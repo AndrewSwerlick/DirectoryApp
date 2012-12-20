@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title><%= family %></title>
+  </head>
+  <body>
+    <h2><%= family %></h2>
+  	<div id="memberPic">
+   		<img src='' alt='<% family%>' />
+   	</div>
+   	<div id="memberData">
+      <a href="tel:<%= phone %>" ><%= phone %></a>
+   	  <ul id="familyMembers">
+        <% for (var person in people) { %>
+          <li><%= people[person].name %></li>
+        <% } %>
+      </ul>
+   	</div>
+    <ul id="notes">
+    <% if(typeof(notes) != "undefined"){ %>
+       <% for(var note in notes){%>
+        <li> <%= notes[note] %></li>
+      <% } %>
+    <% } %>
+      <input type="button" id="addNote"/>
+    </ul>    
+  </body>
+</html>

@@ -1,0 +1,21 @@
+{
+  "name": "DirectoryApp",
+  "version": "0.0.1",
+  "author": "andrew.swerlick@gmail.com",
+  "description": "A simple web app track contacts",
+  "dependencies": {
+    "routes" :  "0.1.x",
+    "templar" : "0.1.x",
+    "ejs" : "0.8.x"
+    },
+  "devDependencies": {
+    "mocha": "1.5.x"
+    },
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  },
+  "repository": {
+    "url": ""
+  }
+}
